@@ -1,0 +1,57 @@
+.column h2 {
+  font-style: oblique;
+  font-family: serif;
+}
+
+h2 {
+  font-style: italic;
+  font-family: cursive;
+  text-align: center;
+}
+
+img {
+  width:  80%;
+  height: 350px;
+}
+
+.column p {
+  width: 100%;
+  text-align: left;
+  padding-left: 20px;
+}
+
+.column {
+  float: left;
+  width: 40%;
+}
+
+.puppy {
+  background-color: #FFC4CC;
+  padding: 2px;
+  border: 3px solid;
+  text-align: center;
+}
+
+.kitten {
+  background-color: #D0FFC4;
+  padding: 2px;
+  border: 3px solid;
+  text-align: center;
+}
+
+.bird {
+  background-color: #C4F8FF;
+  padding: 2px;
+  border: 3px solid;
+  text-align: center;
+}
+
+.sugar {
+  background-color: #CAC4FF;
+  padding: 2px;
+  border: 3px solid;
+  text-align: center;
+}
+p {
+  text-align: center;
+}
